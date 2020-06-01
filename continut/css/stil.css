@@ -1,0 +1,163 @@
+.button {
+  display: inline-block;
+  padding: 15px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+
+.button:hover {background-color: #7B3020}
+/*exemplu pseudo-clasa*/
+.button:active {
+  background-color: #7B3020 ;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+p::first-line {
+  color: rgb(0, 0, 0);
+ }
+footer {
+  position: unset;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color:#FFFFFF;
+  color:black;
+  text-align: center;
+}
+h1{
+  text-align: center;
+  font-style: italic;
+  color: rgb(0, 0, 0);
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+body {
+    margin: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  @import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+  html {
+    height:100%;
+    background-image: linear-gradient(to right top, #8e44ad 0%, #3498db 100%);
+  }
+  
+  nav {
+    max-width: 960px;
+    mask-image: linear-gradient(90deg, rgba(255, 255, 255, 0) 0%, #ffffff 25%, #ffffff 75%, rgba(255, 255, 255, 0) 100%);
+    margin: 0 auto;
+    padding: 60px 0;
+  }
+  
+  nav ul {
+    text-align: center;
+    background: linear-gradient(90deg, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.2) 25%, rgba(255, 255, 255, 0.2) 75%, rgba(255, 255, 255, 0) 100%);
+    box-shadow: 0 0 25px rgba(0, 0, 0, 0.1), inset 0 0 1px rgba(255, 255, 255, 0.6);
+  }
+  
+  nav ul li {
+    display: inline-block;
+  }
+  
+  nav ul li a {
+    padding: 18px;
+    font-family: "Open Sans";
+    text-transform:uppercase;
+    color: rgba(0, 35, 122, 0.5);
+    font-size: 18px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  nav ul li a:hover {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1), inset 0 0 1px rgba(255, 255, 255, 0.6);
+    background: rgba(255, 255, 255, 0.1);
+    color: rgba(0, 35, 122, 0.7);
+  }
+  div.w {
+    text-align: center;
+  }
+  h2{
+    text-align: center;
+    font-style: italic;
+    color: rgb(0, 0, 0);
+    border-style: inset;
+  }
+  div.central { 
+    margin: 0 auto;
+    width: 880px;
+  }
+/*pentru imagini inline*/
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial;
+}
+
+/* The grid: Four equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 25%;
+  padding: 10px;
+}
+
+/* Style the images inside the grid */
+.column img {
+  opacity: 0.8; 
+  cursor: pointer; 
+}
+
+.column img:hover {
+  opacity: 1;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* The expanding image container */
+.container {
+  position: relative;
+  display: none;
+}
+
+/* Expanding image text */
+#imgtext {
+  position: absolute;
+  bottom: 15px;
+  left: 15px;
+  color: white;
+  font-size: 20px;
+}
+
+/* Closable button inside the expanded image */
+.closebtn {
+  position: absolute;
+  top: 10px;
+  right: 15px;
+  color: white;
+  font-size: 35px;
+  cursor: pointer;
+}
