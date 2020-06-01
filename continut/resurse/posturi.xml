@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<posturi>
+    <post id="1">
+        <nume>PRO TV</nume>
+        <telespectatori>80000</telespectatori>
+        <Moldova>12000</Moldova>
+        <Muntenia>8000</Muntenia>
+        <Transilvania>10000</Transilvania>
+        <Dobrogea>9000</Dobrogea>
+        <Oltenia>11000</Oltenia>
+        <Banat>15000</Banat>
+        <Crisana>7500</Crisana>
+        <Maramures>7500</Maramures>
+
+    </post>
+    <post id="2">
+        <nume>Antena 1</nume>
+        <telespectatori>75000</telespectatori>
+        <Moldova>12000</Moldova>
+        <Muntenia>8000</Muntenia>
+        <Transilvania>10000</Transilvania>
+        <Dobrogea>11000</Dobrogea>
+        <Oltenia>12000</Oltenia>
+        <Banat>12000</Banat>
+        <Crisana>7500</Crisana>
+        <Maramures>7500</Maramures>
+    </post>
+    <post id="3">
+        <nume>Kanal D</nume>
+        <telespectatori>60000</telespectatori>
+        <Moldova>12000</Moldova>
+        <Muntenia>8000</Muntenia>
+        <Transilvania>10000</Transilvania>
+        <Dobrogea>9000</Dobrogea>
+        <Oltenia>10000</Oltenia>
+        <Banat>10000</Banat>
+        <Crisana>5000</Crisana>
+        <Maramures>5000</Maramures>
+    </post>
+    <post id="4">
+        <nume>Antena 3</nume>
+        <telespectatori>55000</telespectatori>
+        <Moldova>8000</Moldova>
+        <Muntenia>8000</Muntenia>
+        <Transilvania>9000</Transilvania>
+        <Dobrogea>9000</Dobrogea>
+        <Oltenia>11000</Oltenia>
+        <Banat>5000</Banat>
+        <Crisana>5000</Crisana>
+        <Maramures>7500</Maramures>
+    </post>
+    <post id="5">
+        <nume>Prima TV</nume>
+        <telespectatori>50000</telespectatori>
+        <Moldova>12000</Moldova>
+        <Muntenia>8000</Muntenia>
+        <Transilvania>10000</Transilvania>
+        <Dobrogea>9000</Dobrogea>
+        <Oltenia>11000</Oltenia>
+        <Banat>15000</Banat>
+        <Crisana>7500</Crisana>
+        <Maramures>7500</Maramures>
+    </post>
+    <post id="6">
+        <nume>National TV</nume>
+        <telespectatori>45000</telespectatori>
+        <Moldova>12000</Moldova>
+        <Muntenia>8000</Muntenia>
+        <Transilvania>10000</Transilvania>
+        <Dobrogea>9000</Dobrogea>
+        <Oltenia>11000</Oltenia>
+        <Banat>15000</Banat>
+        <Crisana>7500</Crisana>
+        <Maramures>7500</Maramures>
+    </post>
+    <post id="7">
+        <nume>TVR 1</nume>
+        <telespectatori>40000</telespectatori>
+        <Moldova>6000</Moldova>
+        <Muntenia>13000</Muntenia>
+        <Transilvania>5000</Transilvania>
+        <Dobrogea>9000</Dobrogea>
+        <Oltenia>13000</Oltenia>
+        <Banat>2000</Banat>
+        <Crisana>2000</Crisana>
+        <Maramures>5500</Maramures>
+    </post>
+    <post id="8">
+        <nume>Panini</nume>
+        <telespectatori>35000</telespectatori>
+        <Moldova>12000</Moldova>
+        <Muntenia>14000</Muntenia>
+        <Transilvania>6000</Transilvania>
+        <Dobrogea>4000</Dobrogea>
+        <Oltenia>5000</Oltenia>
+        <Banat>5000</Banat>
+        <Crisana>1000</Crisana>
+        <Maramures>1000</Maramures>
+    </post>
+</posturi>

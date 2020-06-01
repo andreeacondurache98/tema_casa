@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<persoane>
+    <persoana id="1">
+        <nume>PRO TV</nume>
+        <prenume>80000</prenume>
+        <varsta>20000</varsta>
+        <moldova>8000</moldova>
+        <muntenia>9000</muntenia>
+        <transilvania>12000</transilvania>
+        <oltenia>1200</oltenia>
+    </persoana>
+    <persoana id="2">
+        <nume>Antena 1</nume>
+        <prenume>75000</prenume>
+        <varsta>15000</varsta>
+        <moldova>11000</moldova>
+        <muntenia>12000</muntenia>
+        <transilvania>10200</transilvania>
+        <oltenia>3200</oltenia>
+    </persoana>
+    <persoana id="3">
+        <nume>Kanal D</nume>
+        <prenume>60000</prenume>
+        <varsta>22000</varsta>
+        <moldova>13000</moldova>
+        <muntenia>6000</muntenia>
+        <transilvania>13300</transilvania>
+        <oltenia>7800</oltenia>
+    </persoana>
+    <persoana id="4">
+        <nume>Antena 3</nume>
+        <prenume>55000</prenume>
+        <varsta>23000</varsta>
+        <moldova>13000</moldova>
+        <muntenia>8000</muntenia>
+        <transilvania>12230</transilvania>
+        <oltenia>9800</oltenia>
+    </persoana>
+    <persoana id="5">
+        <nume>Prima TV</nume>
+        <prenume>50000</prenume>
+        <varsta>15000</varsta>
+        <moldova>11000</moldova>
+        <muntenia>8000</muntenia>
+        <transilvania>1460</transilvania>
+        <oltenia>9000</oltenia>
+    </persoana>
+    <persoana id="6">
+        <nume>National TV</nume>
+        <prenume>45000</prenume>
+        <varsta>16000</varsta>
+        <moldova>15000</moldova>
+        <muntenia>9000</muntenia>
+        <transilvania>12500</transilvania>
+        <oltenia>6600</oltenia>
+    </persoana>
+    <persoana id="7">
+        <nume>TVR 1</nume>
+        <prenume>40000</prenume>
+        <varsta>22000</varsta>
+        <moldova>13000</moldova>
+        <muntenia>7000</muntenia>
+        <transilvania>5360</transilvania>
+        <oltenia>8800</oltenia>
+    </persoana>
+    <persoana id="8">
+        <nume>Sport</nume>
+        <prenume>35000</prenume>
+        <varsta>8000</varsta>
+        <moldova>12000</moldova>
+        <muntenia>3000</muntenia>
+        <transilvania>11200</transilvania>
+        <oltenia>8200</oltenia>
+    </persoana>
+</persoane>
